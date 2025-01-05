@@ -293,7 +293,7 @@ class MainMenu
         {
             selectorPosition.Y -= 5;
         }
-        else if (engine.GetKey(ConsoleKey.S) && selectorPosition.Y < 40 && CanType(ref moveTime, moveCooldown)) // Adjusted to 40 for the new option
+        else if (engine.GetKey(ConsoleKey.S) && selectorPosition.Y < 45 && CanType(ref moveTime, moveCooldown)) // Adjusted to 40 for the new option
         {
             selectorPosition.Y += 5;
         }
