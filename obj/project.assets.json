@@ -5343,11 +5343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Styx\\Desktop\\ITEC102FinalMain\\_Game_Main\\_Game_Main.csproj",
+      "projectUniqueName": "C:\\Users\\Styx\\Desktop\\ITEC102FinalMain\\VoidInvader_source_code\\_Game_Main.csproj",
       "projectName": "_Game_Main",
-      "projectPath": "C:\\Users\\Styx\\Desktop\\ITEC102FinalMain\\_Game_Main\\_Game_Main.csproj",
+      "projectPath": "C:\\Users\\Styx\\Desktop\\ITEC102FinalMain\\VoidInvader_source_code\\_Game_Main.csproj",
       "packagesPath": "C:\\Users\\Styx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Styx\\Desktop\\ITEC102FinalMain\\_Game_Main\\obj\\",
+      "outputPath": "C:\\Users\\Styx\\Desktop\\ITEC102FinalMain\\VoidInvader_source_code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
